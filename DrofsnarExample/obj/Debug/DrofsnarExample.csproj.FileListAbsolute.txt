@@ -1,0 +1,7 @@
+C:\00_ElevenFifty\01_TeachingTools\DrofsnarExample\DrofsnarExample\bin\Debug\DrofsnarExample.exe.config
+C:\00_ElevenFifty\01_TeachingTools\DrofsnarExample\DrofsnarExample\bin\Debug\DrofsnarExample.exe
+C:\00_ElevenFifty\01_TeachingTools\DrofsnarExample\DrofsnarExample\bin\Debug\DrofsnarExample.pdb
+C:\00_ElevenFifty\01_TeachingTools\DrofsnarExample\DrofsnarExample\obj\Debug\DrofsnarExample.csproj.AssemblyReference.cache
+C:\00_ElevenFifty\01_TeachingTools\DrofsnarExample\DrofsnarExample\obj\Debug\DrofsnarExample.csproj.CoreCompileInputs.cache
+C:\00_ElevenFifty\01_TeachingTools\DrofsnarExample\DrofsnarExample\obj\Debug\DrofsnarExample.exe
+C:\00_ElevenFifty\01_TeachingTools\DrofsnarExample\DrofsnarExample\obj\Debug\DrofsnarExample.pdb
